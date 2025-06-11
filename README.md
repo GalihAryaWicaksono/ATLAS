@@ -10,7 +10,7 @@ Repositori ini merupakan bagian dari mata kuliah Praktikum Pengauditan yang menc
 - `atlas_165_galih.xlsx`\
   → File hasil pengerjaan lengkap seluruh tahapan audit
 
-  - `Arbutus_12030122130165.zip`\
+- `Arbutus_12030122130165.zip`\
   → File analisis Arbutus
   
 ---
