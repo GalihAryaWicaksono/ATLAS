@@ -1,6 +1,6 @@
 # 📊 ATLAS - Audit Tool and Linked Archive System
 
-Repositori ini merupakan bagian dari mata kuliah Praktikum Pengauditan untuk Ujian Akhir Semester (UAS) yang mencakup seluruh proses pengerjaan menggunakan **ATLAS (Audit Tool and Linked Archive System)**, dari tahap pre-engagement hingga pelaporan akhir, serta aplikasi **Arbutus Analyzer**. File Excel dalam repositori ini mencerminkan seluruh tahapan audit yang dikerjakan berdasarkan template awal dari Kementrian Keuangan, instruksi tambahan pada buku Praktikum Pengauditan, serta data tambahan untuk analisis di Arbutus.
+Repositori ini merupakan bagian dari mata kuliah Praktikum Pengauditan yang mencakup seluruh proses pengerjaan menggunakan **ATLAS (Audit Tool and Linked Archive System)**, dari tahap pre-engagement hingga pelaporan akhir, serta aplikasi **Arbutus Analyzer**. File Excel dalam repositori ini mencerminkan seluruh tahapan audit yang dikerjakan berdasarkan template awal dari Kementrian Keuangan, instruksi tambahan pada buku Praktikum Pengauditan, serta data tambahan untuk analisis di Arbutus.
 
 ## 📁 Berkas Utama
 
@@ -10,6 +10,9 @@ Repositori ini merupakan bagian dari mata kuliah Praktikum Pengauditan untuk Uji
 - `atlas_165_galih.xlsx`\
   → File hasil pengerjaan lengkap seluruh tahapan audit
 
+  - `Arbutus_12030122130165.zip`\
+  → File analisis Arbutus
+  
 ---
 
 ## 🧩 Struktur & Penjelasan Konten
@@ -87,7 +90,7 @@ Dokumen umum pendukung audit:
 
 ## 📌 Catatan
 
-- File ini merupakan bagian dari UAS dan dikerjakan berdasarkan template standar dari Kementrian Keuangan dan regulasi audit.
+- File ini merupakan bagian dari mata kuliah Praktikum Audit dan dikerjakan berdasarkan template standar dari Kementrian Keuangan dan regulasi audit.
 - Masing-masing worksheet telah diisi sesuai instruksi mata kuliah.
 - Gunakan file hasil (`atlas_165_galih.xlsx`) untuk menelusuri seluruh proses audit secara sistematis.
 
